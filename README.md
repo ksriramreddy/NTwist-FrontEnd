@@ -22,3 +22,5 @@ Add a star rating widget (not included here but can be added as `rating.html` if
 ---
 
 You can now copy this structure into a GitHub repo named `ntwist-frontend-assignment` and share the link.
+
+You can visit the hosted website here https://ksriramreddy.github.io/NTwist-FrontEnd/
